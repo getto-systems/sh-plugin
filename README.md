@@ -47,4 +47,4 @@ git clone https://github.com/getto-systems/sh-plugin.git
 
 sh-plugin is licensed under the [MIT](LICENSE) license.
 
-Copyright &copy; since 2018 AUTHOR
+Copyright &copy; since 2018 shun@getto.systems
